@@ -1,6 +1,4 @@
 # ML_Lab_T1_15
-# ML Practical - Class TY / Batch T1 / Roll no 15
-
 ---
 
 ## Introduction
